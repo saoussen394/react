@@ -1,0 +1,1 @@
+export {loadTaskDetail} from './TaskDetails';
